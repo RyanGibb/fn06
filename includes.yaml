@@ -1,0 +1,11 @@
+---
+header-includes: <link rel="shortcut icon" href="/favicon.ico">
+css: /style.css
+include-before: |
+	<ul class="navbar" id="navbar">
+		<li><a href="/">home</a></li>
+		<li><a href="/soup.html">soup</a></li>
+		<li><a href="/about.html">about</a></li>
+	</ul>
+link-citations: true
+---

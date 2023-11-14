@@ -1,0 +1,124 @@
+@font-face {
+	font-family: "Noto Sans manual";
+	src: url(fonts/noto-sans/NotoSans-Regular.ttf);
+}
+
+body {
+	font-family: "Noto Sans", "Notto Sans manual", sans-serif;
+	max-width: 800px;
+	margin: auto;
+	font-size: 18px;
+	letter-spacing: 0px;
+	font-stretch: normal;
+	padding: 0 1em;
+	color: #262729;
+	overflow-wrap: break-word;
+}
+
+h1 {
+	font-weight: normal;
+}
+
+.navbar {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+.navbar li {
+	float: left;
+}
+.navbar li a {
+	display: block;
+	color: #000;
+	padding: 16px 16px;
+	text-decoration: none;
+}
+.navbar li a:hover {
+	background-color: #ddd;
+}
+
+a {
+	text-decoration: none;
+	color: #0066cc;
+}
+
+figure {
+	text-align: center;
+}
+
+code {
+	background: #e0e0e0;
+	font-size: 16px;
+	border: solid 1px;
+	border-color: #bfbfbf;
+}
+
+pre code {
+	white-space: pre;
+	border: none;
+}
+
+pre {
+	overflow: auto;
+	background: #e0e0e0;
+	padding: 0 10px 0 10px;
+	margin: 0 10px 0 10px;
+	border: solid 1px;
+	border-color: #bfbfbf;
+}
+
+pre.sourceCode {
+	margin: 0 10px 0 10px;
+}
+
+.sourceCode {
+	overflow: auto;
+}
+
+img {
+	max-width: 100%;
+}
+
+blockquote {
+	font-style: italic;
+	padding: 0 20px;
+	margin: 0 0 20px;
+	border-left: 10px solid #bfbfbf;
+}
+
+.anchor {
+	text-decoration: none;
+	color: #262729;
+	position: relative;
+}
+
+.anchor::before {
+	content: '#';
+	opacity: 0;
+	left: -1em;
+	padding-right: 1em;
+	position: absolute;
+}
+
+.anchor:hover::before {
+	opacity: 1;
+	color: #0066cc;
+}
+
+iframe {
+	width: 100%;
+	aspect-ratio: 16/9;
+}
+
+.footnote-ref, .footnote-back, .citation a {
+	text-decoration: none;
+}
+
+.blog-date {
+	display: flex;
+	justify-content: space-between;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
