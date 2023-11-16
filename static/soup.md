@@ -2,6 +2,20 @@
 pagetitle: "soup | fn06.org"
 ---
 
+## 2023-11-16 (West Hub)
+
+<div style="float:left; margin-bottom:40px">
+<div style="float:left;width:40%">
+<img alt="Curried Pumpkin" src="./images/mushroom-pepper.jpg" width="80%">
+</div>
+<div style="float:left;width:50%">
+<p>Kind: <em>Mushroom and cracked black pepper</em></p>
+<p>Roll(s): <em>Fune Triangular Bread</em></p>
+<p>Description: <em>Over reliant on its peppery taste, the first two seconds are great but the aftertaste lacks depth</em></p>
+<p>Rating: <strong>6/10</strong></p>
+</div>
+</div>
+
 ## 2023-11-01 (West Hub)
 
 <div style="float:left; margin-bottom:40px">
