@@ -1,5 +1,5 @@
 ---
-pagetitle: "soup | fn06.org"
+pagetitle: "fn06.org"
 ---
 
 ## 2023-11-16 (West Hub)
@@ -15,7 +15,7 @@ Roll: _Fun Triangular Bread_
 
 Description: _Over reliant on its peppery taste, the first two seconds are great but the aftertaste lacks depth_
 
-Rating: **8/10**
+Rating: **6/10**
 </div>
 
 ## 2023-11-01 (West Hub)
@@ -47,7 +47,7 @@ Roll(s): _Poppy Seed and Linseed_
 
 Description: _Full bodied and a hint of spice. For some the spice was "too much to eat quickly". That same person preferred the Broccoli soup, though their opinion was in the minority._
 
-Rating: 7/10
+Rating: **7/10**
 </div>
 
 ## 2023-10-25 (West Hub)
@@ -63,6 +63,6 @@ Roll(s): _Poppy Seed_
 
 Description: _Initially, very broccoli-forward based on just the smell. This flipped to being very thai-green-curry-forward (lemongrass, thai basil, garlic etc.) after tasting._
 
-Rating: 6/10
+Rating: **6/10**
 </div>
 
