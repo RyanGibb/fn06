@@ -6,55 +6,63 @@ pagetitle: "soup | fn06.org"
 
 <div style="float:left; margin-bottom:40px">
 <div style="float:left;width:40%">
-<img alt="Curried Pumpkin" src="./images/mushroom-pepper.jpg" width="80%">
+![](2023-11-16.jpg){width=80%}
 </div>
-<div style="float:left;width:50%">
-<p>Kind: <em>Mushroom and cracked black pepper</em></p>
-<p>Roll(s): <em>Fune Triangular Bread</em></p>
-<p>Description: <em>Over reliant on its peppery taste, the first two seconds are great but the aftertaste lacks depth</em></p>
-<p>Rating: <strong>6/10</strong></p>
-</div>
+
+Kind: _Mushroom and cracked black pepper_
+
+Roll: _Fun Triangular Bread_
+
+Description: _Over reliant on its peppery taste, the first two seconds are great but the aftertaste lacks depth_
+
+Rating: **8/10**
 </div>
 
 ## 2023-11-01 (West Hub)
 
 <div style="float:left; margin-bottom:40px">
 <div style="float:left;width:40%">
-<img alt="Curried Pumpkin" src="./images/curried-pumpkin.jpg" width="80%">
+![](2023-11-01.jpg){width=80%}
 </div>
-<div style="float:left;width:50%">
-<p>Kind: <em>Curried Pumpkin</em></p>
-<p>Roll(s): <em>Petite Baguette</em></p>
-<p>Description: <em>Back to back curried soups, however this one was more tangy (likened to <a href="https://en.wikipedia.org/wiki/Tom_yum">Tom Yum</a>) and perfect for Autumn. Really great and full of flavour!</em></p>
-<p>Rating: <strong>8/10</strong></p>
-</div>
+
+Kind: _Curried Pumpkin_
+
+Roll: _Petite Baguette_
+
+Description: _Back to back curried soups, however this one was more tangy (likened to <a href="https://en.wikipedia.org/wiki/Tom_yum">Tom Yum</a>) and perfect for Autumn. Really great and full of flavour!_
+
+Rating: **8/10**
 </div>
 
 ## 2023-10-31 (West Hub)
 
 <div style="float:left; margin-bottom:40px">
 <div style="float:left;width:40%">
-<img alt="Curried Parsnip" src="./images/curried-parsnip.jpg" width="80%">
+![](2023-10-31.jpg){width=80%}
 </div>
-<div style="float:left;width:50%">
-<p>Kind: <em>Curried Parsnip</em></p>
-<p>Roll(s): <em>Poppy Seed and Linseed</em></p>
-<p>Description: <em>Full bodied and a hint of spice. For some the spice was "too much to eat quickly". That same person preferred the Broccoli soup, though their opinion was in the minority.</em></p>
-<p>Rating: <strong>7/10</strong></p>
-</div>
+
+Kind: _Curried Parsnip_
+
+Roll(s): _Poppy Seed and Linseed_
+
+Description: _Full bodied and a hint of spice. For some the spice was "too much to eat quickly". That same person preferred the Broccoli soup, though their opinion was in the minority._
+
+Rating: 7/10
 </div>
 
 ## 2023-10-25 (West Hub)
 
-<div style="float:left">
+<div style="float:left; margin-bottom:40px">
 <div style="float:left;width:40%">
-<img alt="Broccoli and Thai Green Curry Soup" src="./images/broccoli-thai.jpg" width="80%">
+![](2023-10-25.jpg){width=80%}
 </div>
-<div style="float:left;width:50%">
-<p>Kind: <em>Broccoli and Thai Green Curry</em></p>
-<p>Roll(s): <em>Poppy Seed</em></p>
-<p>Description: <em>Initially, very broccoli-forward based on just the smell. This flipped to being very thai-green-curry-forward (lemongrass, thai basil, garlic etc.) after tasting.</em></p>
-<p>Rating: <strong>6/10</strong></p>
-</div>
+
+Kind: _Broccoli and Thai Green Curry_
+
+Roll(s): _Poppy Seed_
+
+Description: _Initially, very broccoli-forward based on just the smell. This flipped to being very thai-green-curry-forward (lemongrass, thai basil, garlic etc.) after tasting._
+
+Rating: 6/10
 </div>
 
