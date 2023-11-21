@@ -2,6 +2,22 @@
 pagetitle: "fn06.org"
 ---
 
+## 2023-11-21 (West Hub)
+
+<div style="float:left; margin-bottom:40px">
+<div style="float:left;width:40%">
+![](2023-11-21.jpg){width=80%}
+</div>
+
+Kind: _Curry Vegetable_
+
+Roll: _No rolls (free mince pie and fruit salad instead)_
+
+Description: _Blended legume texture. Another one that would have been too spicy for Ryan... With guest Grace._
+
+Rating: **6/10**
+</div>
+
 ## 2023-11-16 (West Hub)
 
 <div style="float:left; margin-bottom:40px">
@@ -63,6 +79,6 @@ Roll(s): _Poppy Seed_
 
 Description: _Initially, very broccoli-forward based on just the smell. This flipped to being very thai-green-curry-forward (lemongrass, thai basil, garlic etc.) after tasting._
 
-Rating: **6/10**
+Rating: **4/10**
 </div>
 
