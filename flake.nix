@@ -29,7 +29,7 @@
       )
     ) // {
       nixosModules.default = {
-        imports = [ ./module.nix ];
+        imports = [ (import ./module.nix self.packages) ];
       };
 
       nixosConfigurations."container" = nixpkgs.lib.nixosSystem {
