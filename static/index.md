@@ -2,6 +2,22 @@
 pagetitle: "fn06.org"
 ---
 
+## 2024-01-16 (West Hub)
+
+<div style="float:left; margin-bottom:40px">
+<div style="float:left;width:40%">
+![](2024-01-16.jpg){width=80%}
+</div>
+
+Kind: _Broccoli_
+
+Roll: _Mini Baguette_
+
+Description: _A bit bland, not enough spoons_
+
+Rating: **5/10**
+</div>
+
 ## 2023-11-21 (West Hub)
 
 <div style="float:left; margin-bottom:40px">
