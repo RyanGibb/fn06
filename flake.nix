@@ -28,10 +28,6 @@
         }
       )
     ) // {
-      nixosModules.default = {
-        imports = [ (import ./module.nix self.packages) ];
-      };
-
       nixosConfigurations."container" = nixpkgs.lib.nixosSystem {
         system = "x86_64-linux";
         modules = [
